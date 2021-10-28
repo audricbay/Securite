@@ -10,5 +10,5 @@ CREATE TABLE `users` (
 Sinon rien d'autre que PHP et une base de donnée SQL n'est à installer.
 
 Niveau sécurité:
-On a eviter les injections SQL lors des requetes sur la base de donnée (inscription et connexion) les mots de passes sont crypter à l'aide de la fonction sha1, mot de passe non visible en clair que ca soit dans les formulaires ou dans la base de données.
+les mots de passes sont crypter à l'aide de la fonction sha1, mot de passe non visible en clair que ca soit dans les formulaires ou dans la base de données.
 
